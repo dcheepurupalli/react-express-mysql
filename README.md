@@ -1,4 +1,4 @@
-## Verified to work in Release Heelo Test
+## Verified to work in Release Test
 This project was derived from the react-express-mysql project in [awesome-compose](https://github.com/docker/awesome-compose)
 
 No modifications were necessary for this project to run in Release.
